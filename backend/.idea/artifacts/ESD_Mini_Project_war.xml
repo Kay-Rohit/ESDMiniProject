@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ESD_Mini_Project:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ESD_Mini_Project</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ESD_Mini_Project-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ESD_Mini_Project:war exploded" />
+    </root>
+  </artifact>
+</component>
